@@ -8,4 +8,5 @@ WebBrowser版を時間があれば完成させる
 4. 撮影位置座標をWebMapに可視化する
 5. アップロードされた画像は削除する
 
+![エビフライトライアングル](http://i.imgur.com/3M4DSep.png "サンプル")
 [Imgur](http://i.imgur.com/3M4DSep.png)
